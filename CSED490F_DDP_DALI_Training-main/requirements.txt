@@ -1,0 +1,6 @@
+numpy<2
+nvidia-dali-cuda120
+pynvml
+pandas
+matplotlib
+nvtx
